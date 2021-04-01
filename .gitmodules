@@ -1,0 +1,4 @@
+[submodule "cmsc21journal/public"]
+	path = cmsc21journal/public
+	url = https://github.com/fish-and-bear/cmsc21journal.github.io.git
+	branch = main
